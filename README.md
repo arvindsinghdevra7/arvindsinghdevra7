@@ -10,6 +10,29 @@
 - 🌱 I’m currently learning **DSA ,Web Development**
 
 - 📫 How to reach me **arvindsinghdeora143@gmail.com**
+ <br>
+
+- # 💫 About Me :
+- 😄 Pronouns: He/His
+- 🔭 I’m currently Learning WEB DEV (Frontend is mine expertise)
+- 💖 From Desing to Code is the Game I love the most
+- 📫 How to reach me: Check social links below.
+- 🌱 I’m currently learning more about AI.
+- 🤳 I vlog and clicks a lot is the habit i likes the most
+- ⚡ Fun fact: I spend almost most of the time with nature every day.
+
+
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300f.svg?style=for-the-badge&logo=&logoColor=white) ![C++](https://img.shields.io/badge/c++-%23239120.svg?style=for-the-badge&logo=c++&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<br>
+![c](https://user-images.githubusercontent.com/69046800/203519042-efaacc88-7cd5-4c77-8d7f-d876d50ce6fa.png)
+![JAVA](https://user-images.githubusercontent.com/69046800/203524696-24de23d1-c3ba-44e0-9e77-09efc6198e2d.png)
+![HTML](https://user-images.githubusercontent.com/69046800/203523158-4d11e4fa-3f35-4d51-af22-d4ca0c7581eb.png)
+![CSS](https://user-images.githubusercontent.com/69046800/203523185-9dd9c124-7da7-4498-b693-aa462bba7b36.png)
+![javascript](https://user-images.githubusercontent.com/69046800/203524298-1d81624c-84f2-49f6-b6b3-b8d6d29268df.png)
+![python](https://user-images.githubusercontent.com/69046800/203527036-1e0b266e-d1fb-4969-9ec7-1b9187d1d158.png)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
