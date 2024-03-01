@@ -8,11 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/arvindsingh_777" target="blank"><img src="https://img.shields.io/twitter/follow/arvindsingh_777?logo=twitter&style=for-the-badge" alt="arvindsingh_777" /></a> </p>
 
-- 🌱 I’m currently learning **DSA ,Web Development**
-
-- 📫 How to reach me **arvindsinghdeora143@gmail.com**
- <br>
-
 - # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently Learning WEB DEV (Frontend is mine expertise)
@@ -21,7 +16,13 @@
 - 🌱 I’m currently learning more about AI.
 - 🤳 I vlog and clicks a lot is the habit i likes the most
 - ⚡ Fun fact: I spend almost most of the time with nature every day.
+  
+</br>
 
+- 🌱 I’m currently learning **DSA ,Web Development**
+
+- 📫 How to reach me **arvindsinghdeora143@gmail.com**
+ <br>
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300f.svg?style=for-the-badge&logo=&logoColor=white) ![C++](https://img.shields.io/badge/c++-%23239120.svg?style=for-the-badge&logo=c++&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
