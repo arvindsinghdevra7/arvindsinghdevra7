@@ -53,7 +53,7 @@
 **[Parth Car Rental Website](https://parthcarrental.com/)** *(Live)* — Next.js, Node.js, MongoDB, Cloudinary, JWT, Tailwind CSS
 Full-stack car rental platform with booking, fleet management, tours, blog, admin dashboard & advanced SEO (JSON-LD, sitemap, robots.js).
 
-**Admin Dashboard / Business Website(https://go-infofinance.com/)** — Next.js, TypeScript, MongoDB, Node.js
+**[Admin Dashboard / Business Website](https://go-infofinance.com/)** *(Live)* — Next.js, TypeScript, MongoDB, Node.js
 Full-stack business site with dynamic admin dashboard, secure REST APIs, and SEO optimization.
 
 **Weather Widget** — HTML5, CSS3, JavaScript, OpenWeatherMap API
@@ -64,8 +64,8 @@ Real-time responsive weather app with optimized API calls.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arvindsinghdevra7&show_icons=true&locale=en&theme=default" alt="arvindsinghdevra7" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvindsinghdevra7&show_icons=true&locale=en&layout=compact" alt="arvindsinghdevra7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arvindsinghdevra7&show_icons=true&locale=en&theme=default&cache_seconds=1800" alt="arvindsinghdevra7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvindsinghdevra7&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="arvindsinghdevra7" height="165"/>
 </p>
 
 <p align="center">
