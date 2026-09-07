@@ -50,10 +50,10 @@
 
 ### 🌟 Featured Projects
 
-**[Parth Car Rental Website](https://github.com/arvindsinghdevra7)** *(Live)* — Next.js, Node.js, MongoDB, Cloudinary, JWT, Tailwind CSS
+**[Parth Car Rental Website](https://parthcarrental.com/)** *(Live)* — Next.js, Node.js, MongoDB, Cloudinary, JWT, Tailwind CSS
 Full-stack car rental platform with booking, fleet management, tours, blog, admin dashboard & advanced SEO (JSON-LD, sitemap, robots.js).
 
-**Admin Dashboard / Business Website** — Next.js, TypeScript, MongoDB, Node.js
+**Admin Dashboard / Business Website(https://go-infofinance.com/)** — Next.js, TypeScript, MongoDB, Node.js
 Full-stack business site with dynamic admin dashboard, secure REST APIs, and SEO optimization.
 
 **Weather Widget** — HTML5, CSS3, JavaScript, OpenWeatherMap API
